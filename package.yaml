@@ -1,0 +1,9 @@
+# Package definition for zellij
+
+package_name: zellij
+github_repo: zellij-org/zellij
+artifact_format: tar.gz
+description: "A terminal workspace and multiplexer with built-in layouts, session persistence, and a plugin system."
+license: MIT
+
+# Build for all Debian suites and all supported architectures.

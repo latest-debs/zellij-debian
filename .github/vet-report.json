@@ -1,0 +1,41 @@
+{
+  "gate": "warn",
+  "license": {
+    "declared": "MIT",
+    "detected": [],
+    "license_files": [],
+    "matches": false,
+    "status": "warn",
+    "detail": "declared MIT but no license/SPDX content detected in archive"
+  },
+  "asset": {
+    "format": "tar.gz",
+    "size": 17577372,
+    "valid": true,
+    "is_html": false,
+    "binary": "zellij",
+    "elf_arch": "ARM aarch64",
+    "status": "pass",
+    "detail": "valid tar.gz archive containing 1 ELF executable(s); first: zellij (ARM aarch64); release covers: amd64 arm64 "
+  },
+  "architectures": {
+    "covered": [
+      "amd64",
+      "arm64"
+    ],
+    "missing": [
+      "armel",
+      "armhf",
+      "i386",
+      "ppc64el",
+      "s390x",
+      "riscv64",
+      "loong64"
+    ],
+    "assets": {
+      "amd64": "zellij-no-web-x86_64-unknown-linux-musl.tar.gz",
+      "arm64": "zellij-aarch64-unknown-linux-musl.tar.gz"
+    }
+  },
+  "vetted_at": "2026-08-19T15:19:34Z"
+}

@@ -1,0 +1,35 @@
+{
+  "package": "zellij",
+  "upstream_repo": "zellij-org/zellij",
+  "version": "v0.44.3",
+  "tag": "v0.44.3",
+  "published_at": "2026-05-13T07:49:54Z",
+  "license": "MIT",
+  "asset": "zellij-aarch64-unknown-linux-musl.tar.gz",
+  "asset_size": 17577372,
+  "sha256": "15e6534d42644d66973d136c590c49739dcfd6a1a2a0d3d917973f16c81b45fb",
+  "expected_sha256": "99700a8c0afcf58f05651ccf543f9a84101dd2ea222c8e1cb06b57689425d693",
+  "checksum_source": "zellij-aarch64-apple-darwin.sha256sum",
+  "checksum_verified": false,
+  "assets": {
+    "zellij-aarch64-unknown-linux-musl.tar.gz": {
+      "sha256": "15e6534d42644d66973d136c590c49739dcfd6a1a2a0d3d917973f16c81b45fb",
+      "size": 17577372
+    },
+    "zellij-no-web-aarch64-unknown-linux-musl.tar.gz": {
+      "sha256": "9a92b94ba52e2b03f3a071a978d90922693221fa8ed59fd7f4819fe90e431996",
+      "size": 14179793
+    },
+    "zellij-x86_64-unknown-linux-musl.tar.gz": {
+      "sha256": "0f7c346788627f506c0a28296517768633cff24fc822a739f8264b640ecad751",
+      "size": 18260479
+    },
+    "zellij-no-web-x86_64-unknown-linux-musl.tar.gz": {
+      "sha256": "f901129919b0a405ac5f278f53acd7fde5d62401324c509b6233038d5c0ad1f9",
+      "size": 14594534
+    }
+  },
+  "asset_count": 4,
+  "vetted_at": "2026-08-19T15:19:33Z",
+  "vetted_by": ""
+}
